@@ -1,0 +1,26 @@
+body{
+ background-color:#E4E5E1;	
+}
+.wrapper{
+	margin: 0 auto;
+	padding:80px;
+    width: 60%; 
+    height:60%;
+    box-shadow: 0 0 5px ;
+    background-color: #FFFFFF;
+}
+.middle{
+	 text-align: center;
+}
+.text_bold{
+	font-weight:bold;
+	font-size: 24px;
+	text-align: center;
+}
+img{
+    width:30%;
+	height:30%;
+}
+.my_info{
+	padding: 20px 0px 0px 0px;
+}
